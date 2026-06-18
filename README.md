@@ -1,2 +1,0 @@
-# Rootey
-Root calculator app
